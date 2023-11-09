@@ -1,0 +1,113 @@
+repo_name: josedulanto/ghost-heroku
+report_id: 8ed11e40c1ab97a6f3e06e9207fcef77
+repo_type: Public
+timestamp: '2023-11-09T15:39:52+00:00'
+requested_by: m1guelpf
+provider: github
+branch: master
+detected_tools_count: 9
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  version: 2.14.1
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Coby Chapple
+  last_updated_on: 2014-12-27 19:52:05.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: Coby Chapple
+  last_updated_on: 2014-12-27 19:52:05.000000000 Z
+- name: Heroku
+  description: Build, deliver, monitor and scale web apps and APIs with a trail blazing
+    developer experience.
+  website_url: https://www.heroku.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
+  detection_source: app.json
+  last_updated_by: Miguel Piedrafita
+  last_updated_on: 2018-06-08 15:48:24.000000000 Z
+- name: Imgur
+  description: Discover, upload, or create images
+  website_url: https://imgur.com/
+  open_source: false
+  hosted_saas: true
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/3798/xR2ZYH5O_400x400.png
+  detection_source: content/adapters/storage/ghost-imgur/package.json
+  last_updated_by: Miguel Piedrafita
+  last_updated_on: 2018-06-08 15:48:38.000000000 Z
+- name: Ghost
+  description: Just a blogging platform
+  website_url: https://ghost.org
+  version: 1.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Self-Hosted Blogging / CMS
+  image_url: https://img.stackshare.io/service/1228/XRKixLnT_400x400.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Miguel Piedrafita
+  last_updated_on: 2018-06-08 15:48:38.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: bluebird
+  description: Full featured Promises/A+ implementation with exceptionally good performance
+  package_url: https://www.npmjs.com/bluebird
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15866/default_01b1499f31f2eff6ed744a57b056e181400df5b2.png
+  detection_source_url: content/adapters/storage/ghost-imgur/package.json
+  detection_source: content/adapters/storage/ghost-imgur/package.json
+  last_updated_by: Miguel Piedrafita
+  last_updated_on: 2018-06-08 15:48:38.000000000 Z
