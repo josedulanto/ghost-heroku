@@ -3,11 +3,11 @@
 ## Tech Stack
 josedulanto/ghost-heroku is built on the following main stack:
 
-- [Heroku](https://www.heroku.com) – Platform as a Service
-- [MySQL](http://www.mysql.com) – Databases
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Ghost](https://ghost.org) – Self-Hosted Blogging / CMS
+- [MySQL](http://www.mysql.com) – Databases
+- [Heroku](https://www.heroku.com) – Platform as a Service
 - [Imgur](https://imgur.com/) – Image Processing and Management
+- [Ghost](https://ghost.org) – Self-Hosted Blogging / CMS
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -18,11 +18,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 josedulanto/ghost-heroku is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1228/XRKixLnT_400x400.png' alt='Ghost'/> [Ghost](https://ghost.org) – Self-Hosted Blogging / CMS
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/3798/xR2ZYH5O_400x400.png' alt='Imgur'/> [Imgur](https://imgur.com/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/1228/XRKixLnT_400x400.png' alt='Ghost'/> [Ghost](https://ghost.org) – Self-Hosted Blogging / CMS
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [josedulanto/ghost-heroku](https://github.com/josedulanto/ghost-heroku)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|01/05/24 <br/>Report generated|
+|9<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
